@@ -1,0 +1,26 @@
+{
+  "encoding": "UTF-8",
+  "headers": {
+    "/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/html; charset=UTF-8",
+      "X-Author": "itmo287668"
+    },
+    "/login/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Author": "itmo287668"
+    },
+    "/promise/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Author": "itmo287668"
+    }     
+      ,
+    "/fetch/*": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/html; charset=UTF-8",
+      "X-Author": "itmo287668"
+    } 
+  }    
+}
